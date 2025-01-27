@@ -1,6 +1,6 @@
 # Function 1: Write a simple Hello World program
 # This function should print "Hello, World!" to the screen.
-def hello_world():
+#def hello_world():
     # TODO: Implement this function
     pass  # Replace with your code
 
@@ -10,3 +10,15 @@ def hello_world():
 def input_output():
     # TODO: Implement this function
     pass  # Replace with your code
+
+
+from os import name
+str(print("Hello, world!"))
+
+name = input ("Enter your name: ")
+age = input ("Enter your age: ")
+height = float(input("Enter your height: "))
+
+print ("Hello, " +name)
+print ("You are " + age + " years old")
+print ("Your height is " + str(height) + " meters")
