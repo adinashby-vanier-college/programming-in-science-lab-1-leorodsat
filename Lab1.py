@@ -2,7 +2,6 @@
 # This function should print "Hello, World!" to the screen.
 #def hello_world():
     # TODO: 
-from os import name
 str(print("Hello, world!"))
 
 # Function 2: Get input and output with different variable types
