@@ -4,7 +4,7 @@
     # TODO: 
     pass : 
 
-(print("Hello, world!"))
+str(print("Hello, world!"))
 
 # Function 2: Get input and output with different variable types
 # This function should prompt the user for their name (string), age (int), and height (float),
